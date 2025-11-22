@@ -30,5 +30,5 @@
 <br/><br/>
 
 ### Languages and Tools:
-<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/figma.svg" />
-<img align="left" alt="Adobe XD" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adobexd.svg" />
+<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Adobe XD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
