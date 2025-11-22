@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github.com/andregans/andregans/blob/main/assets/header.png?raw=true" alt="header" />
+ ![ReadmeBox](./ilham.svg)
   
   <!-- Ganti dengan LED matrix kamu -->
   <img src="https://raw.githubusercontent.com/username/username/main/led-nama-kamu.png" alt="ILHAM" width="600"/>
