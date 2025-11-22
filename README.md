@@ -10,15 +10,15 @@
   <br/>
 
   [![Support](https://img.shields.io/badge/Support_Saya-FFAA00?style=flat-square&logo=heart&logoColor=white)](https://saweria.co/ilhamwahyuj)
-  [![Email](https://img.shields.io/badge/Contact-email-red?logo=gmail&style=flat-square)](ilhamwahyu140900@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:ilhamwahyu140900@gmail.com)
   [![Donate](https://img.shields.io/badge/Donate-saweria-yellow?logo=ko-fi&style=flat-square)](https://saweria.co/ilhamwahyuj)
   [![Community](https://img.shields.io/badge/Community-figma-orange?logo=figma&style=flat-square)](https://www.figma.com/@ilhamwahyuj)
 
   <br/>
 
   <strong>My Social Media:</strong><br/>
-  <a href="https://linkedin.com/in/xxx](https://www.linkedin.com/in/ilham-wahyu-j-806859192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square"></a>
-  <a href="https://instagram.com/xxx](https://www.instagram.com/ilham.wahyuj/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/ilham-wahyu-j-806859192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square"></a>
+  <a href="https://www.instagram.com/ilham.wahyuj/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"></a>
   <a href="https://t.me/@TehOolong00"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square"></a>
 
 
