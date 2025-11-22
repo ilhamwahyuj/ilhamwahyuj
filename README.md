@@ -27,8 +27,8 @@
   </picture>
 </div>
 
-<br/><br/>
+<br/>
 
-### Languages and Tools:
-<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Adobe XD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
+<h4 align="left">Languages and Tools:</h4>
+
+[![Tools % Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git)](https://skillicons.dev)
