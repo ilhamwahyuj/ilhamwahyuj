@@ -2,11 +2,9 @@
 
 <div align="center">
 
-  ![Image](https://github.com/user-attachments/assets/7d3c71f6-f2c2-4f7e-a1ca-7dc6625392aa)
+  ![readmebox](https://github.com/user-attachments/assets/7d3c71f6-f2c2-4f7e-a1ca-7dc6625392aa)
 
-  <img src="https://github.com/andregans/andregans/blob/main/assets/hi.gif?raw=true" width="40px"/> 
   <strong>I'm Ilhamwahyuj., Study</strong>
-
   <br/>
 
   [![Support](https://img.shields.io/badge/Support_Saya-FFAA00?style=flat-square&logo=heart&logoColor=white)](https://saweria.co/ilhamwahyuj)
