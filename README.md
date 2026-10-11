@@ -1,34 +1,56 @@
-## Hi there 👋
-
+<!-- HEADER BANNER & TYPING -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,23&height=180&section=header&text=Hi%20there,%20I'm%20Ilham%20👋&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-  ![readmebox](https://github.com/user-attachments/assets/7d3c71f6-f2c2-4f7e-a1ca-7dc6625392aa)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;Lifelong+Learner" alt="Typing SVG" />
+  </a>
 
-  <strong>I'm Ilhamwahyuj., Study</strong>
-  <br/>
-
-  [![Support](https://img.shields.io/badge/Support_Saya-FFAA00?style=flat-square&logo=heart&logoColor=white)](https://saweria.co/ilhamwahyuj)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:ilhamwahyu140900@gmail.com)
-  [![Donate](https://img.shields.io/badge/Donate-saweria-yellow?logo=ko-fi&style=flat-square)](https://saweria.co/ilhamwahyuj)
-  [![Community](https://img.shields.io/badge/Community-figma-orange?logo=figma&style=flat-square)](https://www.figma.com/@ilhamwahyuj)
-
-  <br/>
-
-  <strong>My Social Media:</strong><br/>
-  <a href="https://www.linkedin.com/in/ilham-wahyu-j-806859192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square"></a>
-  <a href="https://www.instagram.com/ilham.wahyuj/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"></a>
-  <a href="https://t.me/@TehOolong00"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square"></a>
-
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ilham-wahyu-j-806859192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28"></a>
+    <a href="https://www.instagram.com/ilham.wahyuj/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="28"></a>
+    <a href="https://www.figma.com/@ilhamwahyuj"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28"></a>
+    <a href="https://saweria.co/ilhamwahyuj"><img src="https://img.shields.io/badge/Saweria-FFAA00?logo=ko-fi&logoColor=white&style=for-the-badge" height="28"></a>
+  </p>
 </div>
 
 <br/>
 
-<h4 align="left">Languages and Tools:</h4>
+### 🚀 About Me
+- 🎓 Sedang fokus belajar **Frontend Development** & **UI/UX Design**.
+- 💡 Tertarik pada pembuatan antarmuka web interaktif, modern, dan responsif.
+- 📫 Hubungi saya via [Email](mailto:ilhamwahyu140900@gmail.com) atau [Telegram](https://t.me/@TehOolong00).
 
-[![Tools % Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git)](https://skillicons.dev)
+---
+
+### 🛠️ Tech Stack & Tools
+
+**UI/UX Design:**  
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+**Frontend & Styling:**  
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
+
+**Workflow & Tools:**  
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhamwahyuj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamwahyuj&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,23&height=100&section=footer" width="100%"/>
