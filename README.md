@@ -17,9 +17,17 @@
 <br/>
 
 ### 🚀 About Me
+
+<img align="right" alt="Developer Coding Animation" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
 - 🎓 Sedang fokus belajar **Frontend Development** & **UI/UX Design**.
 - 💡 Tertarik pada pembuatan antarmuka web interaktif, modern, dan responsif.
+- 🎨 Gemar merancang mockup estetis di Figma & menerapkannya ke kode.
 - 📫 Hubungi saya via [Email](mailto:ilhamwahyu140900@gmail.com) atau [Telegram](https://t.me/@TehOolong00).
+- ☕ Terbuka untuk kolaborasi proyek dan diskusi seputar teknologi & desain!
+
+<br clear="right"/>
+<br/>
 
 ---
 
@@ -40,17 +48,20 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilhamwahyuj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamwahyuj&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ilhamwahyuj&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamwahyuj&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
 ### 🐍 Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,23&height=100&section=footer" width="100%"/>
