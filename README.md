@@ -12,6 +12,14 @@
     <a href="https://www.figma.com/@ilhamwahyuj"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28"></a>
     <a href="https://saweria.co/ilhamwahyuj"><img src="https://img.shields.io/badge/Saweria-FFAA00?logo=ko-fi&logoColor=white&style=for-the-badge" height="28"></a>
   </p>
+
+  <!-- VISITOR COUNT -->
+  <p align="center">
+    <samp><b>Visitor count</b></samp><br/>
+    <a href="https://github.com/ilhamwahyuj">
+      <img src="https://komarev.com/ghpvc/?username=ilhamwahyuj&label=%F0%9F%91%81%EF%B8%8F%20VIEWS&color=00ff66&style=for-the-badge" height="28" alt="Visitor count" />
+    </a>
+  </p>
 </div>
 
 <br/>
