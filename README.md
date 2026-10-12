@@ -15,9 +15,9 @@
 
   <!-- VISITOR COUNT -->
   <p align="center">
-    <samp><b>Visitor count</b></samp><br/>
+    Visitor count<br/>
     <a href="https://github.com/ilhamwahyuj">
-      <img src="https://komarev.com/ghpvc/?username=ilhamwahyuj&label=%F0%9F%91%81%EF%B8%8F%20VIEWS&color=00ff66&style=for-the-badge" height="28" alt="Visitor count" />
+      <img src="https://raw.githubusercontent.com/ilhamwahyuj/ilhamwahyuj/main/assets/visitor-count.svg" alt="Visitor count" />
     </a>
   </p>
 </div>
