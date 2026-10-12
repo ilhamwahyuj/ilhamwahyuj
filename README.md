@@ -55,21 +55,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhamwahyuj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ilhamwahyuj&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamwahyuj&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br/>
-
-### 🐍 Contribution Activity
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,23&height=100&section=footer" width="100%"/>
