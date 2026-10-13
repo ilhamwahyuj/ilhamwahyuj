@@ -17,23 +17,38 @@ function fetchUrl(url, headers = {}) {
 }
 
 function generateSvg(count) {
-  const digits = count.toString().padStart(PLACES, '0').slice(-PLACES).split('');
-  const parts = digits.map((digit, index) => `        <rect fill="#000000" x="${index * 32}" y="0.5" width="29" height="29" rx="3"></rect>
-        <text font-family="Courier, monospace" font-size="24" font-weight="bold" fill="#00FF13">
-            <tspan x="${index * 32 + 7}" y="22">${digit}</tspan>
-        </text>`).join('\n');
+  const countStr = count.toString();
+  const countWidth = Math.max(25, countStr.length * 8 + 9);
+  const labelWidth = 79.2;
+  const totalWidth = labelWidth + countWidth;
+  const labelTextX = labelWidth / 2;
+  const countTextX = labelWidth + countWidth / 2;
 
-  return `<svg width="${PLACES * 32}px" height="30px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <title>Visitor Count</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-${parts}
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${totalWidth.toFixed(1)}" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <mask id="a">
+        <rect width="${totalWidth.toFixed(1)}" height="20" rx="0" fill="#fff"/>
+    </mask>
+    <g mask="url(#a)">
+        <rect width="${labelWidth}" height="20" fill="#555"/>
+        <rect x="${labelWidth}" width="${countWidth}" height="20" fill="#6366f1"/>
+        <rect width="${totalWidth.toFixed(1)}" height="20" fill="url(#b)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="${labelTextX.toFixed(1)}" y="15" fill="#010101" fill-opacity=".3">Visitor Count</text>
+        <text x="${labelTextX.toFixed(1)}" y="14">Visitor Count</text>
+        <text x="${countTextX.toFixed(1)}" y="15" fill="#010101" fill-opacity=".3">${countStr}</text>
+        <text x="${countTextX.toFixed(1)}" y="14">${countStr}</text>
     </g>
 </svg>
 `;
 }
 
 async function run() {
-  let storedData = { total: 17, last_updated: new Date().toISOString() };
+  let storedData = { total: 41, last_updated: new Date().toISOString() };
   if (fs.existsSync(DATA_FILE)) {
     try {
       storedData = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
@@ -42,24 +57,31 @@ async function run() {
     }
   }
 
-  let liveCount = 0;
+  let liveCount = storedData.total || 41;
 
-  // 1. Fetch from live profile counter
-  try {
-    const komarevRes = await fetchUrl('https://komarev.com/ghpvc/?username=ilhamwahyuj');
-    if (komarevRes.status === 200) {
-      const match = komarevRes.data.match(/<text[^>]*>(\d+)<\/text>/g);
-      if (match && match.length > 0) {
-        const last = match[match.length - 1];
-        const val = parseInt(last.replace(/<[^>]+>/g, ''), 10);
-        if (!isNaN(val)) {
-          liveCount = Math.max(liveCount, val);
-          console.log(`Live count from profile views service: ${val}`);
+  // 1. Fetch from live profile counter (Cloudflare Worker & Komarev)
+  const counterEndpoints = [
+    'https://profileviews.blueorbitdevs.workers.dev/?username=ilhamwahyuj',
+    'https://komarev.com/ghpvc/?username=ilhamwahyuj&base=41'
+  ];
+
+  for (const endpoint of counterEndpoints) {
+    try {
+      const res = await fetchUrl(endpoint);
+      if (res.status === 200) {
+        const match = res.data.match(/<text[^>]*>(\d+)<\/text>/g);
+        if (match && match.length > 0) {
+          const last = match[match.length - 1];
+          const val = parseInt(last.replace(/<[^>]+>/g, ''), 10);
+          if (!isNaN(val)) {
+            liveCount = Math.max(liveCount, val);
+            console.log(`Live count from ${endpoint}: ${val}`);
+          }
         }
       }
+    } catch (err) {
+      console.warn(`Error fetching ${endpoint}: ${err.message}`);
     }
-  } catch (err) {
-    console.warn(`Error fetching live counter: ${err.message}`);
   }
 
   // 2. Fetch from GitHub Traffic API if GITHUB_TOKEN is available

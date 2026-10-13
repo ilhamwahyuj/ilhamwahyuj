@@ -1,9 +1,9 @@
 name: Sync Visitor Counter
 
 on:
-  schedule:
-    # Runs every 4 hours automatically
-    - cron: "0 */4 * * *"
+  # schedule:
+  #   # Runs every 4 hours automatically
+  #   - cron: "0 */4 * * *"
   workflow_dispatch:
   push:
     branches:

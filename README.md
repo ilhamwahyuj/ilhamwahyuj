@@ -16,7 +16,7 @@
   <!-- VISITOR COUNT -->
   <p align="center">
     <a href="https://github.com/ilhamwahyuj">
-      <img src="https://komarev.com/ghpvc/?username=ilhamwahyuj&base=17&label=Visitor%20Count&color=6366f1&style=flat-square" alt="Visitor count" />
+      <img src="https://profileviews.blueorbitdevs.workers.dev/?username=ilhamwahyuj&base=41&label=Visitor%20Count&color=6366f1&style=flat-square" alt="Visitor count" />
     </a>
   </p>
 </div>
