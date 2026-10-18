@@ -55,16 +55,9 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Main Skills
 
-**UI/UX Design:**  
-[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-
-**Frontend & Styling:**  
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
-
-**Workflow & Tools:**  
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=figma,ps,html,css,tailwind,js,react,nodejs,postman,vercel,vscode,git,github)](https://skillicons.dev)
 
 ---
 
