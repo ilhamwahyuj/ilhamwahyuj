@@ -27,14 +27,25 @@
 
 <table>
   <tr>
-    <td width="62%" valign="middle">
-      <p><b>Fokus</b> &nbsp;▸&nbsp; <code>Frontend Development</code> &amp; <code>UI/UX Design</code></p>
-      <p><b>Aktivitas</b> &nbsp;▸&nbsp; Merancang antarmuka web yang modern, interaktif, dan responsif</p>
-      <p><b>Workflow</b> &nbsp;▸&nbsp; Konsep mockup di <b>Figma</b> &rarr; Implementasi ke kode bersih</p>
-      <p><b>Kolaborasi</b> &nbsp;▸&nbsp; Terbuka untuk proyek kreatif, freelance, &amp; diskusi teknologi</p>
-      <p><b>Kontak</b> &nbsp;▸&nbsp; <a href="mailto:ilhamwahyu140900@gmail.com"><b>Email</b></a> &bull; <a href="https://t.me/@TehOolong00"><b>Telegram</b></a></p>
+    <td width="63%" valign="middle">
+      <p>
+        <img src="https://img.shields.io/badge/Role-Frontend%20Developer-6366F1?style=flat-square" alt="Role">
+        <img src="https://img.shields.io/badge/Specialist-UI%2FUX%20Design-8B5CF6?style=flat-square" alt="Specialist">
+        <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-10B981?style=flat-square" alt="Status">
+      </p>
+      <p>
+        Halo! Saya <b>Ilham Wahyu</b> — fokus menciptakan antarmuka web yang <b>modern</b>, <b>responsif</b>, dan <b>berestetika tinggi</b>. Menghubungkan eksplorasi desain di <b>Figma</b> dengan kode frontend yang bersih dan efisien.
+      </p>
+      <p>
+        &bull; <b>Design :</b> Wireframing, prototipe interaktif, dan <i>design system</i> di Figma.<br/>
+        &bull; <b>Code :</b> Implementasi antarmuka web dengan HTML, CSS/Tailwind, &amp; JavaScript.<br/>
+        &bull; <b>Sinergi :</b> Terbuka untuk diskusi proyek web, freelance, maupun eksplorasi ide baru.
+      </p>
+      <p>
+        📫 <b>Kontak:</b> <a href="mailto:ilhamwahyu140900@gmail.com"><b>Email</b></a> &bull; <a href="https://t.me/@TehOolong00"><b>Telegram</b></a> &bull; <a href="https://www.linkedin.com/in/ilham-wahyu-j-806859192/"><b>LinkedIn</b></a>
+      </p>
     </td>
-    <td width="38%" align="center" valign="middle">
+    <td width="37%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" width="100%" alt="Developer Coding Animation" />
     </td>
   </tr>
