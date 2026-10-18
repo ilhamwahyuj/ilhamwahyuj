@@ -27,15 +27,15 @@
 
 <table>
   <tr>
-    <td width="60%" valign="middle">
-      <p>🎓 &nbsp; Sedang fokus mendalami <code>Frontend Development</code> &amp; <code>UI/UX Design</code>.</p>
-      <p>💡 &nbsp; Tertarik menciptakan antarmuka web yang <b>interaktif</b>, <b>modern</b>, dan <b>responsif</b>.</p>
-      <p>🎨 &nbsp; Gemar merancang mockup estetis di <b>Figma</b> lalu merealisasikannya ke dalam kode.</p>
-      <p>📫 &nbsp; Terhubung dengan saya via <a href="mailto:ilhamwahyu140900@gmail.com"><b>Email</b></a> atau <a href="https://t.me/@TehOolong00"><b>Telegram</b></a>.</p>
-      <p>☕ &nbsp; Terbuka untuk kolaborasi proyek kreatif &amp; diskusi seputar teknologi dan desain!</p>
+    <td width="62%" valign="middle">
+      <p><b>Fokus</b> &nbsp;▸&nbsp; <code>Frontend Development</code> &amp; <code>UI/UX Design</code></p>
+      <p><b>Aktivitas</b> &nbsp;▸&nbsp; Merancang antarmuka web yang modern, interaktif, dan responsif</p>
+      <p><b>Workflow</b> &nbsp;▸&nbsp; Konsep mockup di <b>Figma</b> &rarr; Implementasi ke kode bersih</p>
+      <p><b>Kolaborasi</b> &nbsp;▸&nbsp; Terbuka untuk proyek kreatif, freelance, &amp; diskusi teknologi</p>
+      <p><b>Kontak</b> &nbsp;▸&nbsp; <a href="mailto:ilhamwahyu140900@gmail.com"><b>Email</b></a> &bull; <a href="https://t.me/@TehOolong00"><b>Telegram</b></a></p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTBjdTB1dXRtdDRlaG5zOGgzcTNkZ29tcXZvNXBzNW1uZDBpdGhtOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PRgs2sn03T1xpCSWKe/giphy.gif" width="100%" alt="Developer Coding Animation" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" width="100%" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
