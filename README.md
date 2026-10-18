@@ -25,15 +25,21 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="Developer Coding Animation" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <p>🎓 &nbsp; Sedang fokus mendalami <code>Frontend Development</code> &amp; <code>UI/UX Design</code>.</p>
+      <p>💡 &nbsp; Tertarik menciptakan antarmuka web yang <b>interaktif</b>, <b>modern</b>, dan <b>responsif</b>.</p>
+      <p>🎨 &nbsp; Gemar merancang mockup estetis di <b>Figma</b> lalu merealisasikannya ke dalam kode.</p>
+      <p>📫 &nbsp; Terhubung dengan saya via <a href="mailto:ilhamwahyu140900@gmail.com"><b>Email</b></a> atau <a href="https://t.me/@TehOolong00"><b>Telegram</b></a>.</p>
+      <p>☕ &nbsp; Terbuka untuk kolaborasi proyek kreatif &amp; diskusi seputar teknologi dan desain!</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
 
-- 🎓 Sedang fokus belajar **Frontend Development** & **UI/UX Design**.
-- 💡 Tertarik pada pembuatan antarmuka web interaktif, modern, dan responsif.
-- 🎨 Gemar merancang mockup estetis di Figma & menerapkannya ke kode.
-- 📫 Hubungi saya via [Email](mailto:ilhamwahyu140900@gmail.com) atau [Telegram](https://t.me/@TehOolong00).
-- ☕ Terbuka untuk kolaborasi proyek dan diskusi seputar teknologi & desain!
-
-<br clear="right"/>
 <br/>
 
 ---
