@@ -54,8 +54,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamwahyuj&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+### 💬 Random Dev Quote
+
+<div align="center">
+  <a href="https://github.com/PiyushSthr/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  </a>
 </div>
 
 <br/>
