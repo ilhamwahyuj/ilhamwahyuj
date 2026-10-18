@@ -35,7 +35,7 @@
       <p>☕ &nbsp; Terbuka untuk kolaborasi proyek kreatif &amp; diskusi seputar teknologi dan desain!</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Coding Animation" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTBjdTB1dXRtdDRlaG5zOGgzcTNkZ29tcXZvNXBzNW1uZDBpdGhtOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PRgs2sn03T1xpCSWKe/giphy.gif" width="100%" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
