@@ -70,10 +70,6 @@
       <br>Photoshop
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/capcut.svg" width="48" height="48" alt="CapCut" />
-      <br>CapCut
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -122,10 +118,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/mikrotik.svg" width="48" height="48" alt="MikroTik" />
-      <br>MikroTik
     </td>
     <td align="center" width="96">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif" width="48" height="48" alt="Git" />
