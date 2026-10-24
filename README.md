@@ -21,8 +21,6 @@
   </p>
 </div>
 
-<br/>
-
 ### 🚀 About Me
 
 <table>
