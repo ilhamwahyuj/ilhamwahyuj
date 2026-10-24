@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,23&height=180&section=header&text=Hi%20there,%20I'm%20Ilham%20👋&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+Full+Stack+Developer;Generative+AI+Engineer;Lifelong+Learner" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -27,17 +27,17 @@
   <tr>
     <td width="63%" valign="middle">
       <p>
-        <img src="https://img.shields.io/badge/Role-Frontend%20Developer-6366F1?style=flat-square" alt="Role">
-        <img src="https://img.shields.io/badge/Specialist-UI%2FUX%20Design-8B5CF6?style=flat-square" alt="Specialist">
+        <img src="https://img.shields.io/badge/Role-AI%20Full%20Stack%20Developer-6366F1?style=flat-square" alt="Role">
+        <img src="https://img.shields.io/badge/Specialist-AI%20Integration%20%26%20Full%20Stack-8B5CF6?style=flat-square" alt="Specialist">
         <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-10B981?style=flat-square" alt="Status">
       </p>
       <p>
-        Halo! Saya <b>Ilham Wahyu</b> — fokus menciptakan antarmuka web yang <b>modern</b>, <b>responsif</b>, dan <b>berestetika tinggi</b>. Menghubungkan eksplorasi desain di <b>Figma</b> dengan kode frontend yang bersih dan efisien.
+        Halo! Saya <b>Ilham Wahyu</b> — seorang <b>AI Full Stack Developer</b> yang berdedikasi membangun aplikasi web modern, cerdas, dan scalable dari hulu ke hilir. Menggabungkan arsitektur <i>full stack</i> yang kokoh, integrasi teknologi kecerdasan buatan (Generative AI / LLM), serta sentuhan UI/UX yang intuitif dan berestetika tinggi.
       </p>
       <p>
-        &bull; <b>Design :</b> Wireframing, prototipe interaktif, dan <i>design system</i> di Figma.<br/>
-        &bull; <b>Code :</b> Implementasi antarmuka web dengan HTML, CSS/Tailwind, &amp; JavaScript.<br/>
-        &bull; <b>Sinergi :</b> Terbuka untuk diskusi proyek web, freelance, maupun eksplorasi ide baru.
+        &bull; <b>AI &amp; Full Stack :</b> Mengembangkan aplikasi web end-to-end yang mengintegrasikan model AI, API cerdas, dan arsitektur backend yang scalable.<br/>
+        &bull; <b>Modern Web &amp; UX :</b> Merancang antarmuka interaktif yang intuitif, responsif, dan seamless untuk pengalaman pengguna aplikasi cerdas (Next.js, Tailwind, Figma).<br/>
+        &bull; <b>Sinergi &amp; Kolaborasi :</b> Terbuka untuk diskusi proyek berbasis AI, web development, freelance, maupun eksplorasi inovasi baru.
       </p>
       <p>
         📫 <b>Kontak:</b> <a href="mailto:ilhamwahyu140900@gmail.com"><b>Email</b></a> &bull; <a href="https://t.me/@TehOolong00"><b>Telegram</b></a> &bull; <a href="https://www.linkedin.com/in/ilham-wahyu-j-806859192/"><b>LinkedIn</b></a>
