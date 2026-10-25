@@ -154,9 +154,7 @@
   </a>
 </div>
 
-<br/>
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph"/>
@@ -164,3 +162,6 @@
 
 </p>
 
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,23&height=100&section=footer" width="100%"/>
