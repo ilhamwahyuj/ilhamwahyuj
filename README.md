@@ -118,7 +118,7 @@
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
