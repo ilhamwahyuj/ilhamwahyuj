@@ -165,7 +165,7 @@
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! 👋</i>
+  <i>Thanks for visiting my profile! 👋 Let's connect.</i>
 </p>
 
 <!-- FOOTER -->
