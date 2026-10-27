@@ -162,6 +162,14 @@
 
 </p>
 
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! 👋</i>
+</p>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,23&height=100&section=footer" width="100%"/>
+
+
+
