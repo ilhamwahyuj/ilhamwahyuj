@@ -35,7 +35,7 @@
         Hello! I'm <b>Ilham Wahyu</b> — a tech enthusiast and AI Full Stack Developer who enjoys turning ideas into functional, clean, and visually appealing applications. My interests lie at the intersection of modern full-stack web development, practical AI integration, and intuitive visual design.
       </p>
       <p>
-        &bull; <b>Web Development:</b> Building clean, well-structured, and responsive full-stack web applications tailored to user needs.<br/>
+        &bull; <b>AI Full Stack Developer:</b> Building clean, well-structured, and responsive full-stack web applications tailored to user needs.<br/>
         &bull; <b>Practical AI Integration:</b> Exploring and integrating Generative AI / LLMs to deliver real, meaningful value to web applications.<br/>
         &bull; <b>UI &amp; Visual Design:</b> Ensuring interfaces not only function seamlessly behind the scenes, but are also intuitive, accessible, and user-friendly (Next.js, Tailwind CSS, Figma).<br/>
         &bull; <b>Open to Collaboration:</b> Have an idea for a web project, need a coding partner, or just want to discuss technology? Let’s chat and connect!
