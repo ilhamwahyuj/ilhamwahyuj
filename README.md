@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-10B981?style=flat-square" alt="Status">
       </p>
       <p>
-        Hello! I'm <b>Ilham Wahyu</b> — a tech enthusiast and web developer who enjoys turning ideas into functional, clean, and visually appealing applications. My interests lie at the intersection of modern full-stack web development, practical AI integration, and intuitive visual design.
+        Hello! I'm <b>Ilham Wahyu</b> — a tech enthusiast and AI Full Stack Developer who enjoys turning ideas into functional, clean, and visually appealing applications. My interests lie at the intersection of modern full-stack web development, practical AI integration, and intuitive visual design.
       </p>
       <p>
         &bull; <b>Web Development:</b> Building clean, well-structured, and responsive full-stack web applications tailored to user needs.<br/>
