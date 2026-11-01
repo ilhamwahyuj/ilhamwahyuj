@@ -32,15 +32,16 @@
         <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-10B981?style=flat-square" alt="Status">
       </p>
       <p>
-        Halo! Saya <b>Ilham Wahyu</b> — seorang <b>AI Full Stack Developer</b> yang berdedikasi membangun aplikasi web modern, cerdas, dan scalable dari hulu ke hilir. Menggabungkan arsitektur <i>full stack</i> yang kokoh, integrasi teknologi kecerdasan buatan (Generative AI / LLM), serta sentuhan UI/UX yang intuitif dan berestetika tinggi.
+        Hello! I'm <b>Ilham Wahyu</b> — a tech enthusiast and web developer who enjoys turning ideas into functional, clean, and visually appealing applications. My interests lie at the intersection of modern full-stack web development, practical AI integration, and intuitive visual design.
       </p>
       <p>
-        &bull; <b>AI &amp; Full Stack :</b> Mengembangkan aplikasi web end-to-end yang mengintegrasikan model AI, API cerdas, dan arsitektur backend yang scalable.<br/>
-        &bull; <b>Modern Web &amp; UX :</b> Merancang antarmuka interaktif yang intuitif, responsif, dan seamless untuk pengalaman pengguna aplikasi cerdas (Next.js, Tailwind, Figma).<br/>
-        &bull; <b>Sinergi &amp; Kolaborasi :</b> Terbuka untuk diskusi proyek berbasis AI, web development, freelance, maupun eksplorasi inovasi baru.
+        &bull; <b>Web Development:</b> Building clean, well-structured, and responsive full-stack web applications tailored to user needs.<br/>
+        &bull; <b>Practical AI Integration:</b> Exploring and integrating Generative AI / LLMs to deliver real, meaningful value to web applications.<br/>
+        &bull; <b>UI &amp; Visual Design:</b> Ensuring interfaces not only function seamlessly behind the scenes, but are also intuitive, accessible, and user-friendly (Next.js, Tailwind CSS, Figma).<br/>
+        &bull; <b>Open to Collaboration:</b> Have an idea for a web project, need a coding partner, or just want to discuss technology? Let’s chat and connect!
       </p>
       <p>
-        📫 <b>Kontak:</b> <a href="mailto:ilhamwahyu140900@gmail.com"><b>Email</b></a> &bull; <a href="https://t.me/@TehOolong00"><b>Telegram</b></a> &bull; <a href="https://www.linkedin.com/in/ilham-wahyu-j-806859192/"><b>LinkedIn</b></a>
+        📫 <b>Contact:</b> <a href="mailto:ilhamwahyu140900@gmail.com"><b>Email</b></a> &bull; <a href="https://t.me/@TehOolong00"><b>Telegram</b></a> &bull; <a href="https://www.linkedin.com/in/ilham-wahyu-j-806859192/"><b>LinkedIn</b></a>
       </p>
     </td>
     <td width="37%" align="center" valign="middle">
@@ -162,6 +163,3 @@
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8,23&height=100&section=footer" width="100%"/>
-
-
-
